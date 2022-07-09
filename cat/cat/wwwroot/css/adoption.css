@@ -52,7 +52,7 @@ padding-bottom: 120px;
 }
 
 .box1 {
-    width: 430px;
+    max-width: 430px;
     height: 700px;
     position: center;
     color: white;
